@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/xeon/Documents/KPrepos/smartilease/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/xeon/.gradle/caches/transforms-2/files-2.1/6819940f207eb63071c80e1407cbf891/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/xeon/Documents/KPrepos/smartilease/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/xeon/.gradle/caches/transforms-2/files-2.1/6819940f207eb63071c80e1407cbf891/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/xeon/Documents/KPrepos/smartilease/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/xeon/.gradle/caches/transforms-2/files-2.1/6819940f207eb63071c80e1407cbf891/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/xeon/Documents/KPrepos/smartilease/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/xeon/.gradle/caches/transforms-2/files-2.1/6819940f207eb63071c80e1407cbf891/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/xeon/Documents/KPrepos/smartilease/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/xeon/.gradle/caches/transforms-2/files-2.1/95f07ef25876292b920f773c222e67c1/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/xeon/Documents/KPrepos/smartilease/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/xeon/.gradle/caches/transforms-2/files-2.1/6819940f207eb63071c80e1407cbf891/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
